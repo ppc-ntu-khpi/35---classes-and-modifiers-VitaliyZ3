@@ -1,6 +1,6 @@
 # Classes and modifiers 
 
-Customer.java
+### Customer.java
 ```java
 public class Сustomer {
 	private int ID;
@@ -46,7 +46,7 @@ public Сustomer() {
 }```
 
 
-CustomerTest.java
+### CustomerTest.java
 ```java
 public class CustomerTest {
 

@@ -1,6 +1,6 @@
 # Classes and modifiers 
 
-### Customer.java
+# Customer.java
 ```java
 public class Сustomer {
 	private int ID;
@@ -43,10 +43,11 @@ public Сustomer() {
 		System.out.println("Is new: " + this.isNew);
 		System.out.println("Total is " + this.total);
 	}
-}```
+} 
+```
 
 
-### CustomerTest.java
+# CustomerTest.java
 ```java
 public class CustomerTest {
 
@@ -58,7 +59,8 @@ public class CustomerTest {
     c.displayCustomerInfo();
 	}
 
-}```
+}
+```
 
 ## Скріншоти роботи програми
 ![](https://github.com/ppc-ntu-khpi/35---classes-and-modifiers-VitaliyZ3/blob/main/Solution/HAIPOVO.png)
